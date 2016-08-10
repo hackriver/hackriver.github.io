@@ -9,41 +9,37 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Renan Valentin Ferreira
   pic: 1
-  position: Lead Designer
+  position: 2
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: github
       url: #
 
-- name: Larry Parker
+- name: Leandro Cesquini Pereira
   pic: 2
-  position: Lead Marketer
+  position:
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://twitter.com/leandrocesquini
+    - title: github
+      url: http://github.com/leandrocp/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Marco Bonuto
+  pic: 2
+  position:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: github
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: slack
+    url: http://slack.hackriver.com.br
   - title: twitter
     url: 
   - title: facebook
