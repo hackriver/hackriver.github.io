@@ -10,8 +10,8 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Renan Valentin Ferreira
-  pic: 1
-  position: 2
+  pic: renan
+  position:
   social:
     - title: twitter
       url: https://twitter.com/nantoaqui
@@ -21,7 +21,7 @@ people:
       url: https://br.linkedin.com/in/renanvalentin
 
 - name: Leandro Cesquini Pereira
-  pic: 2
+  pic: leandro
   position:
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: https://br.linkedin.com/in/leandrocesquini
 
 - name: Marco Bonuto
-  pic: 2
+  pic: marco
   position:
   social:
     - title: github
@@ -43,9 +43,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: slack
-    url: http://slack.hackriver.com.br
-  - title: twitter
-    url: 
+    url: http://hack-river-slackin.herokuapp.com/
   - title: facebook
     url: http://facebook.com/hackriver
   - title: github
