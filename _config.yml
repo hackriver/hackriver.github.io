@@ -14,9 +14,11 @@ people:
   position: 2
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/nantoaqui
     - title: github
-      url: #
+      url: https://github.com/renanvalentin
+    - title: linkedin
+      url: https://br.linkedin.com/in/renanvalentin
 
 - name: Leandro Cesquini Pereira
   pic: 2
@@ -26,15 +28,17 @@ people:
       url: https://twitter.com/leandrocesquini
     - title: github
       url: http://github.com/leandrocp/
+    - title: linkedin
+      url: https://br.linkedin.com/in/leandrocesquini
 
 - name: Marco Bonuto
   pic: 2
   position:
   social:
-    - title: twitter
-      url: #
     - title: github
-      url: #
+      url: https://github.com/marcobonuto
+    - title: linkedin
+      url: https://br.linkedin.com/in/marco-bonuto-219954aa
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
