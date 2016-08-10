@@ -1,30 +1,26 @@
-Agency Jekyll theme
+hack.river website
 ====================
 
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
-# How to use
+# Contribua
 
-###Portfolio 
+```
+# install ruby 2.30
 
-Portfolio projects are in '/_posts'
+bundle install
+bundle exec jekyll serve
+```
 
-Images are in '/img/portfolio'
+Open http://127.0.0.1:4000/
 
-###About
+Commit na master.
 
-Images are in '/img/about/'
+# Jekyll
 
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
 For more details, read [documentation](http://jekyllrb.com/)
+
+
+# Ver também
+
+Tema original [agency-jekyll-theme](https://github.com/y7kim/agency-jekyll-theme)
