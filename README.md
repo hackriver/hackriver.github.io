@@ -6,8 +6,9 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 # Contribua
 
 ```
-# install ruby 2.30
+# install ruby 2.x
 
+gem install bundler
 bundle install
 bundle exec jekyll serve
 ```
