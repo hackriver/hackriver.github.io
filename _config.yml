@@ -42,12 +42,16 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: group
+    url: http://www.meetup.com/hack-river/
   - title: slack
-    url: http://hack-river-slackin.herokuapp.com/
+    url: http://slack.hackriver.com.br
   - title: facebook
     url: http://facebook.com/hackriver
   - title: github
     url: http://github.com/hackriver
+  - title: bullhorn
+    url: http://speakerdeck.com/hackriver
 
 # Postal address (add as many lines as necessary)
 address:
