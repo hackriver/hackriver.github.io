@@ -31,14 +31,16 @@ people:
     - title: linkedin
       url: https://br.linkedin.com/in/leandrocesquini
 
-- name: Marco Bonuto
-  pic: marco
+- name: Leandro De Souza
+  pic: leandro_souze
   position:
   social:
+    - title: twitter
+      url: https://twitter.com/netLeandro
     - title: github
-      url: https://github.com/marcobonuto
+      url: https://github.com/lsdev14
     - title: linkedin
-      url: https://br.linkedin.com/in/marco-bonuto-219954aa
+      url: https://www.linkedin.com/in/lsdev14/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
