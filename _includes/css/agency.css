@@ -868,6 +868,16 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
+#meetups {
+    border-top: 1px solid #ebebeb;
+}
+
+.meetup__box {
+    padding: 20px;
+
+    border: 1px solid #ebebeb;
+}
+
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
