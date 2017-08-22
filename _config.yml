@@ -63,3 +63,16 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Meetups (starting from the latest to the first)
+meetups:
+  - title: "Hack.river #10"
+    url: https://www.meetup.com/hack-river/events/242233896/
+    address: ZUP
+    talks:
+      - title: Importância do Redux
+        speaker: Guilherme Revolta
+        url: "#"
+      - title: GraphQl
+        speaker: Jones Vitolo
+        url: "#"
